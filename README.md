@@ -1,2 +1,0 @@
-# token-assets
-HypCoin Assets
